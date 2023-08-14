@@ -3,7 +3,7 @@ Quick n' dirty script which backs up (copies) your Apple Notes to Dropbox Paper.
 &nbsp;
 
 ## How it works
-- [This] really helpful python lib extracts the notes' HTML using Applescript
+- [This](https://github.com/RhetTbull/macnotesapp) really helpful python lib extracts the notes' HTML using Applescript
 - The code in this repo creates a new, datestamped folder in your Dropbox Paper account
 - Each note is copied to Dropbox Paper
 - Unlock your notes first to include locked ones
